@@ -1,0 +1,17 @@
+[
+    {
+        "id": "dummyTable",
+        "title": "Dummy Table",
+        "path": "dummyTable"
+    },
+    {
+        "id": "dummyChart",
+        "title": "Dummy Chart",
+        "path": "dummyChart"
+    },
+    {
+        "id": "dummyList",
+        "title": "Dummy List",
+        "path": "dummyList"
+    }
+]
